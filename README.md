@@ -1,0 +1,3 @@
+- **College Coursework** – Assignments and materials from my college courses.  
+- **College Projects** – Projects completed as part of my college curriculum.  
+- **Personal Projects** – Independent projects I’ve worked on outside of coursework.
