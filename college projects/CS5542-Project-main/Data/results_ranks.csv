@@ -1,0 +1,201 @@
+qid,query,doc_id,rating,tf,p_match,complete_count,key_size,phrase_count,search_size,doc_age
+1,Trumps tax returns,2371,2,11,0.333333333,0,79,20,3,4
+1,Trumps tax returns,5481,2,10,0.666666667,0,69,20,3,4
+1,Trumps tax returns,4324,2,9,0.333333333,0,69,20,3,5
+1,Trumps tax returns,2271,3,8,0.666666667,0,52,20,3,3
+1,Trumps tax returns,6437,2,8,0.333333333,0,85,20,3,4
+1,Trumps tax returns,8781,1,8,0.333333333,0,89,20,3,3
+1,Trumps tax returns,546,2,7,0.333333333,0,60,20,3,5
+1,Trumps tax returns,784,2,7,0.333333333,0,76,20,3,3
+1,Trumps tax returns,2045,3,7,0.666666667,0,88,20,3,3
+1,Trumps tax returns,2083,2,7,0.666666667,0,73,20,3,3
+1,Trumps tax returns,2134,1,7,0.333333333,0,82,20,3,4
+1,Trumps tax returns,2222,2,7,0.666666667,0,70,20,3,3
+1,Trumps tax returns,2321,1,7,0.333333333,0,61,20,3,3
+1,Trumps tax returns,2323,1,7,0.666666667,0,75,20,3,5
+1,Trumps tax returns,2334,3,7,0.666666667,0,87,20,3,3
+1,Trumps tax returns,3222,2,7,0.333333333,0,68,20,3,5
+1,Trumps tax returns,3989,4,7,1.0,0,57,20,3,4
+1,Trumps tax returns,10254,1,7,0.333333333,0,64,20,3,3
+1,Trumps tax returns,578,1,6,0.333333333,0,64,20,3,4
+1,Trumps tax returns,688,1,6,0.333333333,0,54,20,3,4
+2,protest police brutality,2927,3,12,0.666666667,0,95,20,3,4
+2,protest police brutality,8174,2,10,0.333333333,0,72,20,3,3
+2,protest police brutality,118,1,9,0.333333333,0,69,20,3,5
+2,protest police brutality,417,1,9,0.333333333,0,70,20,3,6
+2,protest police brutality,257,4,8,0.666666667,0,77,20,3,5
+2,protest police brutality,2894,4,8,0.333333333,0,93,20,3,4
+2,protest police brutality,4505,3,8,0.333333333,0,80,20,3,5
+2,protest police brutality,13028,1,8,0.333333333,0,55,20,3,5
+2,protest police brutality,3034,4,7,1.0,0,62,20,3,6
+2,protest police brutality,6196,4,7,0.666666667,0,97,20,3,4
+2,protest police brutality,196,2,7,0.333333333,0,71,20,3,5
+2,protest police brutality,207,2,7,0.333333333,0,74,20,3,4
+2,protest police brutality,2892,4,7,0.333333333,0,79,20,3,4
+2,protest police brutality,428,3,6,0.666666667,0,81,20,3,4
+2,protest police brutality,1325,2,6,0.666666667,0,110,20,3,3
+2,protest police brutality,2811,4,6,0.666666667,0,55,20,3,6
+2,protest police brutality,3168,4,6,0.666666667,0,76,20,3,4
+2,protest police brutality,13340,4,6,0.666666667,0,78,20,3,5
+2,protest police brutality,37,0,6,0.333333333,0,64,20,3,4
+2,protest police brutality,79,3,6,0.333333333,0,87,20,3,5
+3,charlie hebdo shooting,12429,4,8,1.0,0,80,20,3,4
+3,charlie hebdo shooting,2286,3,7,0.333333333,0,77,20,3,6
+3,charlie hebdo shooting,6076,4,6,0.666666667,0,71,20,3,5
+3,charlie hebdo shooting,13631,4,6,0.666666667,0,84,20,3,5
+3,charlie hebdo shooting,13523,4,5,0.666666667,0,64,20,3,5
+3,charlie hebdo shooting,1708,3,5,0.333333333,0,83,20,3,6
+3,charlie hebdo shooting,8996,2,5,0.333333333,0,65,20,3,5
+3,charlie hebdo shooting,13194,1,4,0.666666667,0,91,20,3,5
+3,charlie hebdo shooting,230,1,4,0.333333333,0,77,20,3,4
+3,charlie hebdo shooting,419,2,4,0.333333333,0,67,20,3,8
+3,charlie hebdo shooting,895,0,3,0.333333333,0,54,20,3,3
+3,charlie hebdo shooting,2710,0,3,0.333333333,0,48,20,3,5
+3,charlie hebdo shooting,13672,4,3,1.0,0,40,20,3,5
+3,charlie hebdo shooting,319,1,3,0.333333333,0,69,20,3,5
+3,charlie hebdo shooting,423,1,3,0.333333333,0,72,20,3,3
+3,charlie hebdo shooting,2808,2,3,0.333333333,0,74,20,3,4
+3,charlie hebdo shooting,2830,1,3,0.333333333,0,78,20,3,8
+3,charlie hebdo shooting,2880,1,3,0.333333333,0,59,20,3,2
+3,charlie hebdo shooting,2955,1,3,0.333333333,0,54,20,3,5
+3,charlie hebdo shooting,3782,2,3,0.333333333,0,61,20,3,3
+4,black lives matter,3084,4,24,1.0,7,87,20,3,5
+4,black lives matter,3043,4,19,1.0,4,72,20,3,5
+4,black lives matter,3015,3,18,1.0,3,79,20,3,5
+4,black lives matter,3124,4,18,1.0,4,74,20,3,5
+4,black lives matter,2251,4,17,1.0,5,90,20,3,5
+4,black lives matter,2862,2,17,0.333333333,0,72,20,3,6
+4,black lives matter,2913,4,16,1.0,4,60,20,3,4
+4,black lives matter,2927,3,15,1.0,2,95,20,3,4
+4,black lives matter,7126,4,14,1.0,4,91,20,3,5
+4,black lives matter,3072,2,13,0.666666667,0,84,20,3,5
+4,black lives matter,4269,2,12,0.333333333,0,93,20,3,6
+4,black lives matter,3068,3,11,0.666666667,0,107,20,3,5
+4,black lives matter,6173,4,11,1.0,3,66,20,3,5
+4,black lives matter,2836,2,10,0.666666667,0,57,20,3,3
+4,black lives matter,2796,3,9,0.333333333,0,99,20,3,5
+4,black lives matter,2922,2,9,0.666666667,0,72,20,3,6
+4,black lives matter,2958,4,9,1.0,3,70,20,3,5
+4,black lives matter,3009,4,9,1.0,1,77,20,3,3
+4,black lives matter,6075,4,9,1.0,3,53,20,3,5
+4,black lives matter,3022,3,8,0.333333333,0,57,20,3,2
+5,climate change,11090,4,14,1.0,7,83,20,2,6
+5,climate change,13488,4,14,1.0,7,78,20,2,5
+5,climate change,5157,4,13,1.0,6,75,20,2,4
+5,climate change,10926,4,12,1.0,6,86,20,2,5
+5,climate change,11153,4,12,1.0,4,97,20,2,5
+5,climate change,11160,4,12,1.0,6,100,20,2,6
+5,climate change,7570,4,11,1.0,3,67,20,2,2
+5,climate change,11228,4,11,1.0,4,87,20,2,6
+5,climate change,18598,4,11,1.0,4,96,20,2,7
+5,climate change,2163,4,10,1.0,5,95,20,2,5
+5,climate change,6355,3,10,1.0,4,65,20,2,3
+5,climate change,10814,4,10,1.0,5,68,20,2,6
+5,climate change,10831,4,10,1.0,5,66,20,2,3
+5,climate change,10903,4,10,1.0,2,97,20,2,6
+5,climate change,18659,4,10,1.0,3,74,20,2,8
+5,climate change,18751,4,10,1.0,4,83,20,2,8
+5,climate change,2024,4,9,1.0,4,88,20,2,5
+5,climate change,7583,4,9,1.0,4,72,20,2,3
+5,climate change,10887,4,9,1.0,3,107,20,2,5
+5,climate change,18554,4,9,1.0,4,83,20,2,8
+6,stephen colbert barack obama,3871,2,8,0.5,0,60,20,4,5
+6,stephen colbert barack obama,3905,2,8,0.5,0,54,20,4,6
+6,stephen colbert barack obama,3951,3,8,1.0,0,61,20,4,4
+6,stephen colbert barack obama,9922,2,8,0.5,0,62,20,4,3
+6,stephen colbert barack obama,2212,2,8,0.5,0,53,20,4,5
+6,stephen colbert barack obama,4044,1,8,0.25,0,65,20,4,5
+6,stephen colbert barack obama,2119,2,7,0.5,0,50,20,4,2
+6,stephen colbert barack obama,3882,2,7,0.5,0,63,20,4,3
+6,stephen colbert barack obama,5407,2,7,0.5,0,74,20,4,8
+6,stephen colbert barack obama,3711,2,6,0.5,0,54,20,4,3
+6,stephen colbert barack obama,3736,2,6,0.5,0,43,20,4,3
+6,stephen colbert barack obama,3790,2,6,0.5,0,45,20,4,4
+6,stephen colbert barack obama,3894,2,6,0.5,0,52,20,4,3
+6,stephen colbert barack obama,3921,2,6,0.5,0,55,20,4,3
+6,stephen colbert barack obama,4037,2,6,0.5,0,45,20,4,3
+6,stephen colbert barack obama,4122,2,6,0.5,0,56,20,4,3
+6,stephen colbert barack obama,2036,2,6,0.5,0,74,20,4,4
+6,stephen colbert barack obama,2186,2,6,0.5,0,71,20,4,4
+6,stephen colbert barack obama,4940,2,6,0.5,0,70,20,4,5
+6,stephen colbert barack obama,6113,1,6,0.5,0,59,20,4,3
+7,trump tax returns,7976,0,1,0.333333333,0,172,20,3,5
+7,trump tax returns,2019,3,2,0.333333333,0,127,20,3,4
+7,trump tax returns,10933,2,2,0.666666667,0,121,20,3,5
+7,trump tax returns,1256,2,4,0.333333333,0,116,20,3,2
+7,trump tax returns,2148,2,3,0.333333333,0,113,20,3,4
+7,trump tax returns,3176,0,1,0.333333333,0,108,20,3,8
+7,trump tax returns,2126,1,1,0.333333333,0,112,20,3,3
+7,trump tax returns,13323,0,1,0.333333333,0,110,20,3,5
+7,trump tax returns,6542,0,1,0.333333333,0,106,20,3,8
+7,trump tax returns,2401,2,3,0.333333333,0,109,20,3,4
+7,trump tax returns,8470,0,2,0.333333333,0,110,20,3,3
+7,trump tax returns,2378,3,1,0.333333333,0,108,20,3,5
+7,trump tax returns,12337,0,1,0.333333333,0,110,20,3,3
+7,trump tax returns,1524,0,2,0.666666667,0,106,20,3,6
+7,trump tax returns,18459,0,3,0.333333333,0,104,20,3,7
+7,trump tax returns,1410,1,1,0.333333333,0,109,20,3,3
+7,trump tax returns,11067,1,1,0.333333333,0,109,20,3,3
+7,trump tax returns,2307,0,1,0.333333333,0,107,20,3,5
+7,trump tax returns,8427,2,1,0.333333333,0,109,20,3,3
+7,trump tax returns,13521,0,2,0.666666667,0,106,20,3,5
+8,pokemon go players,12418,4,16,1.0,1,72,20,3,4
+8,pokemon go players,186,4,11,1.0,2,71,20,3,4
+8,pokemon go players,12771,4,10,1.0,2,60,20,3,4
+8,pokemon go players,6681,3,9,0.333333333,0,51,20,3,6
+8,pokemon go players,2507,4,6,1.0,1,54,20,3,4
+8,pokemon go players,5083,1,8,0.333333333,0,85,20,3,4
+8,pokemon go players,16298,0,1,0.333333333,0,6,3,3,8
+8,pokemon go players,15061,0,1,0.333333333,0,5,3,3,8
+8,pokemon go players,16740,0,1,0.333333333,0,4,3,3,8
+8,pokemon go players,15084,0,1,0.333333333,0,6,3,3,7
+8,pokemon go players,5685,0,1,0.333333333,0,7,3,3,7
+8,pokemon go players,14934,0,1,0.333333333,0,7,3,3,7
+8,pokemon go players,15491,0,1,0.333333333,0,5,4,3,8
+8,pokemon go players,16223,0,1,0.333333333,0,10,4,3,8
+8,pokemon go players,17312,0,1,0.333333333,0,10,4,3,8
+8,pokemon go players,18331,0,1,0.333333333,0,5,3,3,6
+8,pokemon go players,6005,0,1,0.333333333,0,4,3,3,6
+8,pokemon go players,14814,0,1,0.333333333,0,4,3,3,6
+8,pokemon go players,17194,0,1,0.333333333,0,7,4,3,7
+8,pokemon go players,17282,0,1,0.333333333,0,7,4,3,7
+9,walmart gift cards,6587,4,7,1.0,1,59,20,3,5
+9,walmart gift cards,3781,1,2,0.333333333,0,33,20,3,2
+9,walmart gift cards,652,0,3,0.333333333,0,44,20,3,3
+9,walmart gift cards,3463,1,1,0.333333333,0,10,7,3,2
+9,walmart gift cards,4095,1,2,0.333333333,0,38,18,3,3
+9,walmart gift cards,10547,3,2,0.333333333,0,10,3,3,4
+9,walmart gift cards,5516,2,1,0.333333333,0,7,5,3,3
+9,walmart gift cards,4621,1,3,0.333333333,0,49,20,3,3
+9,walmart gift cards,1291,0,1,0.333333333,0,41,20,3,3
+9,walmart gift cards,2484,1,1,0.333333333,0,7,5,3,4
+9,walmart gift cards,7982,1,3,0.333333333,0,60,20,3,2
+9,walmart gift cards,4155,1,1,0.333333333,0,38,20,3,4
+9,walmart gift cards,6881,0,3,0.333333333,0,47,20,3,5
+9,walmart gift cards,3859,0,1,0.333333333,0,47,20,3,3
+9,walmart gift cards,897,1,2,0.333333333,0,36,20,3,5
+9,walmart gift cards,8895,0,4,0.333333333,0,65,20,3,3
+9,walmart gift cards,6083,0,2,0.333333333,0,54,20,3,3
+9,walmart gift cards,2906,0,2,0.333333333,0,54,20,3,3
+9,walmart gift cards,17892,3,2,0.666666667,0,8,3,3,7
+9,walmart gift cards,2473,2,2,0.666666667,0,65,20,3,2
+10,identity theft prevention,8104,0,1,0.3333333333333333,0,7,5,3,3
+10,identity theft prevention,61,4,6,0.6666666666666666,0,103,20,3,5
+10,identity theft prevention,4286,0,3,0.3333333333333333,0,79,20,3,4
+10,identity theft prevention,4377,0,3,0.3333333333333333,0,78,20,3,4
+10,identity theft prevention,6562,3,3,1.0,1,67,20,3,6
+10,identity theft prevention,8093,0,3,0.3333333333333333,0,70,20,3,4
+10,identity theft prevention,9074,0,3,0.3333333333333333,0,78,20,3,6
+10,identity theft prevention,14510,0,3,0.3333333333333333,0,78,20,3,6
+10,identity theft prevention,19097,0,3,0.3333333333333333,0,51,20,3,8
+10,identity theft prevention,8464,0,3,0.3333333333333333,0,92,20,3,5
+10,identity theft prevention,8553,0,3,0.3333333333333333,0,81,20,3,2
+10,identity theft prevention,8788,0,3,0.3333333333333333,0,82,20,3,6
+10,identity theft prevention,3041,0,2,0.3333333333333333,0,42,20,3,6
+10,identity theft prevention,3478,0,2,0.3333333333333333,0,64,20,3,3
+10,identity theft prevention,4315,0,2,0.3333333333333333,0,87,20,3,8
+10,identity theft prevention,4409,0,2,0.3333333333333333,0,57,20,3,3
+10,identity theft prevention,5289,3,2,0.6666666666666666,0,81,20,3,4
+10,identity theft prevention,8246,0,2,0.3333333333333333,0,52,20,3,4
+10,identity theft prevention,9213,0,2,0.3333333333333333,0,77,20,3,3
+10,identity theft prevention,9489,4,2,0.6666666666666666,0,9,5,3,5
